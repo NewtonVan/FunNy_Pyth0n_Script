@@ -1,0 +1,2 @@
+# FunNy_Pyth0n_Script
+一些zz而有趣或是有些用的python script
